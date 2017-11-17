@@ -1,0 +1,5 @@
+/home/gaomin/cmake/t2/usr/share/doc/cmake/t2/doc
+/home/gaomin/cmake/t2/usr/share/doc/cmake/t2/COPYRIGHT
+/home/gaomin/cmake/t2/usr/share/doc/cmake/t2/README
+/home/gaomin/cmake/t2/usr/bin/hello
+/home/gaomin/cmake/t2/usr/bin/runhello.sh
