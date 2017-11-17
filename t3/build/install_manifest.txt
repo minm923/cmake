@@ -1,0 +1,5 @@
+/home/gaomin/cmake/t3/usr/lib/libhello.so.1.2
+/home/gaomin/cmake/t3/usr/lib/libhello.so.1
+/home/gaomin/cmake/t3/usr/lib/libhello.so
+/home/gaomin/cmake/t3/usr/lib/libhello.a
+/home/gaomin/cmake/t3/usr/include/hello/hello.h

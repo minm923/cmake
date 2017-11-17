@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/main.dir/main.c.o  -o main  -L/home/gaomin/cmake/t3/usr/lib -rdynamic -Wl,-Bstatic -lhello -Wl,-Bdynamic -Wl,-rpath,/home/gaomin/cmake/t3/usr/lib 

@@ -1,0 +1,2 @@
+/home/gaomin/cmake/t3/build/bin/CMakeFiles/hello.dir
+/home/gaomin/cmake/t3/build/bin/CMakeFiles/hello_static.dir
